@@ -37,5 +37,5 @@ source.js
 /app/features/badges.js
 
 #lock files
-yackage-lock.json
+package-lock.json
 yarn.lock
